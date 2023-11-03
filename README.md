@@ -8,7 +8,7 @@ I create  application using a started code from a Booting camp course. I build a
 I learn:  
     - how to create queries using SQL.  
     - how to make a connection to the database using mysql2.   
-    - how to create tables in the console using the table package                 
+    - how to use Sequelize as a ORM.                
 
 ## Installation
 
@@ -26,9 +26,9 @@ The following video shows the command line application's appearance and function
 To create this application, I used the following tutorials:    
     - SQL: https://dev.mysql.com/doc/     
     - MySQL2: https://www.npmjs.com/package/mysql2           
-    - Inquirer: https://www.npmjs.com/package/inquirer  
-    - Table package: https://www.npmjs.com/package/table      
-    - Figlet: https://www.npmjs.com/package/figlet?activeTab=readme                                                          
+    - Dotenv: https://www.npmjs.com/package/dotenv       
+    - Sequelize: https://sequelize.org/docs/v6/  
+    - Insomnia: https://docs.insomnia.rest/insomnia/get-started                                                                    
 
 ## License
 

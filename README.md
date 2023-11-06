@@ -8,7 +8,8 @@ I create  application using a started code from a Booting camp course. I build a
 I learn:  
     - how to create queries using SQL.  
     - how to make a connection to the database using mysql2.   
-    - how to use Sequelize as a ORM.                
+    - how to use Sequelize as a ORM.  
+    - how to use  dotenv package to use environment variables to store sensitive data, like a user’s MySQL username, password, and database name.              
 
 ## Installation
 

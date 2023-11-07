@@ -4,7 +4,7 @@
 
 ## Description
 
-I create  application using a started code from a Booting camp course. I build an application . 
+I create  application using a started code from a Booting camp course. I build the back end for an e-commerce site. 
 I learn:  
     - how to create queries using SQL.  
     - how to make a connection to the database using mysql2.   

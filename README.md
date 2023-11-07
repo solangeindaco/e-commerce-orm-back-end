@@ -19,7 +19,7 @@ Repository URL: https://github.com/solangeindaco/e-commerce-orm-back-end
 
 The following video shows the command line application's appearance and functionality:
 
-[E-Commerce ORM Back End video]()
+[E-Commerce ORM Back End video](https://drive.google.com/file/d/1h-yqOK435pdAugtzUDx0aAUKaTjPvMDf/view)
 
 
 ## Credits
